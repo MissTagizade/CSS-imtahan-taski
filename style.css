@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+                                        /* Header hissesi */
+header{
+    background-color: #f2f2f2;
+}
+.bas1{
+    /* padding: 10px 20px; */
+    display: flex;
+    justify-content: space-between;
+}
+.bas-sag-icon{
+    display: flex;
+}
+.bas2{
+    overflow-x: scroll;
+}
+.bas2 img {
+    width: 40px;
+}
+.bas3{
+    text-align: center;
+    color: #6f6f6f;
+}
+.bas3 a{
+    margin: auto;
+    text-decoration: none;
+    color: #0a58ca;
+}
+                                        /* Titanium hissesi */
+.titanium{
+    text-align: center;
+    background-color: black;
+    padding: 20px 0 0 0;
+    display: block;
+}
+.new{
+    color: #bf4800;
+    font-size: .8em;
+    margin: 5px;
+}
+.titanium-h3{
+    color: #8b887e;
+    font-weight: 200;
+}
+.titanium1 .p-from{
+    color: white;
+}
+.p-from{
+    color: black;
+    font-size: 16px;
+}
+.titanium-yazi{
+    width: 250px;
+    margin: 20px;
+}
+.buy-button{
+    font-size: 1em;
+    background-color: #0071e3;
+    color: white;
+    margin: 30px;
+    border-radius: 50px;
+    border: none;
+    width: 58px;
+    height: 35px;
+}
+.learn-more{
+    font-size: 1.2em;
+    color: #2997ff;
+    text-decoration: none;
+}
+.titanium-iphone{
+    width: 60px;
+    margin: 20px 0;
+}
+                                        /* Newphpria hissesi */
+.newphoria{
+    text-align: center;
+    padding: 50px 0 0 0;
+}
+.newphoria-h3{
+    color: black;
+    font-weight: 200;
+    font-size: 25px;
+}
+.newphoria-h1{
+    margin: 10px 0;
+    font-size: 2em;
+    font-weight: 200;
+}
+.newphoria-iphone{
+    background-image: url("img/newphoria-iphone.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 90px;
+    margin: 20px 0 0 0;
+}
+                                        /*  Iphone hissesi */
+.iphone{
+    text-align: center;
+    padding: 30px 0 0;
+    background-color: #fbfbfd;
+}
+.iphone-h6{
+    font-size: 1.3em;
+}
+.iphone-h2{
+    color: #1e3791;
+    margin: 15px;
+    font-size: 2em;
+}
+.iphone-img{
+    width: 140px;
+    margin: 20px 0 0;
+}
+                                        /* Tour hissesi */
+.tour{
+    text-align: center;
+    /* padding: 45px 0 0 0; */
+}
+.tour1{
+    margin: 40px;
+}
+.tour-h6{
+    color: black;
+    font-size: 1em;
+}
+.tour-h2{
+    color: black;
+    font-size: 2em;
+    margin: 10px;
+}
+
+.tour1 a{
+    text-decoration: none;
+    color: #2997ff;
+    font-size: 1.2em;
+}
+.tour-img{
+    background-image: url("img/cirkin-kisi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 230px;
+}
+                                        /* Right hissesi */
+.right{
+    text-align: center;
+    padding: 130px 0 0;
+}
+.right-h2{
+    font-size: 2em;
+    font-weight: 200;
+}
+.right-iphones{
+    text-align: center;
+    display: inline-block;
+    margin: 10px 0;
+    padding: 50px 0 0 ;
+}
+.right-iphone{
+    width: 125px;
+    height: 180px;
+}
+.right-iphone-img{
+    width: 100%;
+    height: 100%;
+}
+.colors-img{
+    height: 45px;
+    width: 100%;
+}
+.colors{
+    width: 90px;
+}
+.right-h6{
+    font-size: 1em;
+    margin: 5px 0 10px;
+}
+.right-h5{
+    font-size: 1.1em;
+    font-weight: 200;
+}
+.right-p{
+    font-size: .8em;
+    margin: 30px 0 0;
+}
